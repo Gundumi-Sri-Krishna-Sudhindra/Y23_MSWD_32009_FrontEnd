@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Acknowledgements
+
+This project is a basic CRUD implementation following the MVC (Model-View-Controller) design pattern.
+
+Special thanks to the following resources, communities, and individuals whose tools, code, and inspiration made this project possible:
+
+- [Create React App](https://github.com/facebook/create-react-app) – for the React project setup and development tools.
+- [Bootswatch](https://github.com/thomaspark/bootswatch) – for their beautiful and easy-to-use Bootstrap themes.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) – for open-source coding tutorials and practice resources.
+- [The Net Ninja](https://github.com/iamshaunjp) – for excellent frontend development tutorials (especially React and Firebase series).
+- [Traversy Media](https://github.com/bradtraversy) – for full-stack and MERN tutorials, often used as a base for CRUD projects.
+- [Open Source Community](https://github.com/search?q=crud+react+springboot) – for sharing complete full-stack CRUD implementations that guided my architecture.
+- [Stack Overflow](https://stackoverflow.com/) – for helping debug and refine functionality throughout development.
+- GitHub users like [`gopinav`](https://github.com/gopinav), [`bezkoder`](https://github.com/bezkoder), and [`cornflourblue`](https://github.com/cornflourblue) – for posting clean and well-documented CRUD examples in React and Spring Boot.
+
+Shoutout to the [r/reactjs](https://www.reddit.com/r/reactjs/) and [r/webdev](https://www.reddit.com/r/webdev/) Reddit communities for feedback, ideas, and discussions.
+
